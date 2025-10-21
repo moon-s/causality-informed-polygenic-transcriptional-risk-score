@@ -1,0 +1,4 @@
+gene	pred_beta	is_labeled	true_beta
+BFAR	0.12104993	False	
+NOMO1	0.123795725	True	0.1934851109981537
+PDXDC1	0.123795755	False	

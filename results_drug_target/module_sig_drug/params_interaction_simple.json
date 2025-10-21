@@ -1,0 +1,12 @@
+{
+  "paths": {
+    "rb_membership": "/mnt/f/10_osteo_MR/results_network/largest_causal_subnet_A2_a6_g0.001832981/all_membership.tsv",
+    "drugmap": "/mnt/f/10_osteo_MR/result_drug_target/drugmap_drug_gene_by_moa_status.csv",
+    "ppi": "/mnt/f/10_osteo_MR/datasets/ppi/ppi_all_nonduplicate.tsv"
+  },
+  "filter_status": null,
+  "universe": "U = PPI nodes \u222a all Drugmap targets",
+  "test_modules": "hypergeometric (P[X>=k]) over modules; BH-FDR per drug",
+  "test_RB_union": "optional RB vs union per drug; BH-FDR across drugs",
+  "outputs_dir": "/mnt/f/10_osteo_MR/result_drug_target/module_sig_drug"
+}

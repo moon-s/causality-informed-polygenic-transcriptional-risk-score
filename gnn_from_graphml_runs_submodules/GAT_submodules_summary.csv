@@ -1,0 +1,13 @@
+submodule,n_nodes,n_labeled,trained,val_rmse,out_path
+0,450,41,True,0.16758909821510315,/mnt/f/10_osteo_MR/gnn_from_graphml_runs_submodules/GAT_sub0_beta_predictions.tsv
+1,360,23,True,0.17523761093616486,/mnt/f/10_osteo_MR/gnn_from_graphml_runs_submodules/GAT_sub1_beta_predictions.tsv
+2,325,55,True,0.10944846272468567,/mnt/f/10_osteo_MR/gnn_from_graphml_runs_submodules/GAT_sub2_beta_predictions.tsv
+3,288,38,True,0.12501393258571625,/mnt/f/10_osteo_MR/gnn_from_graphml_runs_submodules/GAT_sub3_beta_predictions.tsv
+4,242,29,True,0.14036789536476135,/mnt/f/10_osteo_MR/gnn_from_graphml_runs_submodules/GAT_sub4_beta_predictions.tsv
+5,230,17,True,0.1799861043691635,/mnt/f/10_osteo_MR/gnn_from_graphml_runs_submodules/GAT_sub5_beta_predictions.tsv
+6,227,22,True,0.22463518381118774,/mnt/f/10_osteo_MR/gnn_from_graphml_runs_submodules/GAT_sub6_beta_predictions.tsv
+7,206,29,True,0.18410034477710724,/mnt/f/10_osteo_MR/gnn_from_graphml_runs_submodules/GAT_sub7_beta_predictions.tsv
+8,79,13,True,0.1955285668373108,/mnt/f/10_osteo_MR/gnn_from_graphml_runs_submodules/GAT_sub8_beta_predictions.tsv
+9,46,10,True,0.15742187201976776,/mnt/f/10_osteo_MR/gnn_from_graphml_runs_submodules/GAT_sub9_beta_predictions.tsv
+10,14,8,True,0.20686937868595123,/mnt/f/10_osteo_MR/gnn_from_graphml_runs_submodules/GAT_sub10_beta_predictions.tsv
+11,3,1,False,,/mnt/f/10_osteo_MR/gnn_from_graphml_runs_submodules/GAT_sub11_beta_predictions.tsv
