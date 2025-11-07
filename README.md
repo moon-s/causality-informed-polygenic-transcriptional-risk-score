@@ -16,7 +16,7 @@ The pipeline processes regulatory variant data (DHS-filtered SNPs), harmonizes G
 - pQTL: UK Biobank-PPP, deCODE  
 - Regulatory regions: DHS Index and Vocabulary (hg38 WM20190703)  
 - Drug–target data: DrugMap 2.0, DGIdb  
-- PPI: OmniPath
+- PPI
 
 ---
 ## Pipeline Overview Diagram (simplified)
